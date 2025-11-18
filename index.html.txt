@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Raspadita Navideña</title>
+  <!-- Librerías necesarias -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://websanova.com/wScratchPad/wScratchPad.min.js"></script>
+  <!-- Estilos -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🎁 RASPÁ Y DESCUBRÍ TU BONO</h1>
+
+  <div id="bono1" class="scratch-zone"></div>
+  <div id="bono2" class="scratch-zone"></div>
+  <div id="bono3" class="scratch-zone"></div>
+
+  <!-- Lógica de raspado -->
+  <script src="script.js"></script>
+</body>
+</html>
